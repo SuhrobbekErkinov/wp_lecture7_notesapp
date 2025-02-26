@@ -10,7 +10,7 @@ This is a **React-based Note Management Website** that provides an interactive a
 
 ### ✨ Features:
 - 📱 **Fully Responsive** – Works seamlessly on mobile, tablet, and desktop.  
-- 🎨 **Modern UI** – Beautifully styled with TailwindCSS & Bootstrap.  
+- 🎨 **Modern UI** – Beautifully styled with CSS & Bootstrap.  
 - 🚀 **Optimized Performance** – Fast loading and efficient rendering.  
 - 🌐 **Deployed on Netlify** – Accessible from anywhere.  
 - 🛠️ **Open Source** – Contributions are welcome!  
