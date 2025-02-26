@@ -23,29 +23,39 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/SuhrobbekErkinov/wp_lecture7_notesapp
 cd wp_lecture7_notesapp
-2️⃣ Check whether Node is installed or not  Click Here  
+```
+2️⃣ Check whether Node is installe
+```bash
 node -v 
 3️⃣ Install Dependencies
+```bash
 npm install
 npm install bootstrap
+```
 4️⃣ Start the Development Server
+```bash
 npm start
+```
 This will start the development server, and you can view the website by navigating to http://localhost:3000 in your browser.
 
 🛠️ How to Contribute
 Fork the Repository – Click the "Fork" button on the top right of the repository page.
 
 Clone Your Fork – Clone the forked repository to your local machine:
-
+```bash
 git clone https://github.com/SuhrobbekErkinov/wp_lecture7_notesapp
+```
 Create a New Branch – Create a branch for your changes:
+```bash
 git checkout -b your-branch-name
+```
 Make Changes – Implement your changes or fixes.
 Commit and Push – Commit your changes and push them to your fork:
-
+```bash
 git add .
 git commit -m "Your commit message"
 git push origin your-branch-name
+```
 Create a Pull Request – Go to the original repository and create a pull request from your branch.
 
 📄 License
