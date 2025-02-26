@@ -1,7 +1,5 @@
 ### Built with HTML, CSS, Bootstrap, and React  
 
-🚀 **Live Demo:** [Click Here](https://ubiquitous-kelpie-09bb0e.netlify.app/)  
-
 ## 📌 Description  
 
 This is a **React-based Note Management Website** that provides an interactive and user-friendly experience. Designed with **Bootstrap, and React**, it ensures responsiveness across all devices.  
