@@ -54,5 +54,3 @@ Contributions are welcome! Follow these steps:
 4. Submit a pull request with a clear description of your changes.
 
 ---
-
-Made with ❤️ by [Your Name](https://github.com/SanjarYusupjonov)
